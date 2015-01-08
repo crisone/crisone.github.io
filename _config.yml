@@ -2,7 +2,7 @@
 title: 安迪也能搞科研
 email: andyjyuan@163.
 description: > # this means to ignore newlines until "baseurl:"
-	他们说，编程序没有前途，还是好好搞科研吧～
+  他们说，编程序没有前途，还是好好搞科研吧～
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.andyisnotcoding.com" # the base hostname & protocol for your site
 twitter_username: crisone
