@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "沧海一栗"
+title: "无处书写"
 description: > # this means to ignore newlines until "email:"
    永远相信美好的事情将要发生
 
@@ -11,7 +11,7 @@ email: andyjyuan@163.com
 #blog logo
 logo: "/assets/images/img350412964.jpg"
 # blog cover
-cover: "/assets/images/IMG_0169.jpg"
+cover: "/assets/images/annie.jpg"
 
 name: 'Andy'
 author: 'Andy'
