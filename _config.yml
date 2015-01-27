@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "无处书写"
+title: "云中梦"
 description: > # this means to ignore newlines until "email:"
    永远相信美好的事情将要发生
 
