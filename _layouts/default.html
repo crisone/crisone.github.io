@@ -3,23 +3,14 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="no-sidebar">
 
     {% include header.html %}
-
-    <!-- content start -->
-
     <div class="page-content">
-      <div class="wrapper">
         {{ content }}
-      </div>
     </div>
-
-    <!-- content end -->
-
     {% include footer.html %}
-    {% include javascripts.html %}
 
   </body>
-
+  <script id="dsq-count-scr" src="//utascomment.disqus.com/count.js" async></script>
 </html>

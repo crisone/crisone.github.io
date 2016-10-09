@@ -1,54 +1,12 @@
+# Site settings
+title: Yuan Jiang - uTAS2016 Dublin
+email: jiangyuan@tju.edu.cn
+description: > # This webpage is mainly build for supplementary information download and
+  Q&A section of Yuan's microTAS 2016 poster presentation.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+twitter_username: yuanjiang
+github_username:  crisone
+
 # Build settings
 markdown: kramdown
-highlighter: rouge
-
-# Site settings
-title: "云中梦"
-description: > # this means to ignore newlines until "email:"
-   永远相信美好的事情将要发生
-
-email: andyjyuan@163.com
-#blog logo
-logo: "/assets/images/img350412964.jpg"
-# blog cover
-cover: "/assets/images/annie.jpg"
-backcover: "/assets/images/ant.jpg"
-
-name: 'Andy'
-author: 'Andy'
-author_image: "/assets/images/noface.jpeg"
-
-paginate:	5
-
-url: "http://www.andyisnotcoding.com" # the base hostname & protocol for your site
-baseurl: ""
-
-# social icons and sharing options
-social:
-  # - icon:	twitter
-  #   url:	https://twitter.com/dirkfabisch
-  #   desc: Follow me on twitter
-  #   share_url: http://twitter.com/share
-  #   share_title: ?text=
-  #   share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
