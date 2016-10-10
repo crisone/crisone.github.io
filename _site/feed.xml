@@ -1,183 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>云中梦</title>
-    <description>永远相信美好的事情将要发生
+    <title>Yuan Jiang - uTAS2016 Dublin</title>
+    <description>Q&amp;A section of Yuan's microTAS 2016 poster presentation.
 </description>
-    <link>http://www.andyisnotcoding.com/</link>
-    <atom:link href="http://www.andyisnotcoding.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Mar 2016 01:57:48 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Mar 2016 01:57:48 +0800</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://locahost:4000/</link>
+    <atom:link href="http://locahost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 10 Oct 2016 07:42:27 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 07:42:27 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>随记：柳白猿，石神哲哉，</title>
-        <description>&lt;p&gt;不知怎么敢准备开始敲这篇随记的时候，便断了两回电，折腾来去，开始写字的时候，思绪已经差不多溜走了一大半。
-柳白猿与石神哲哉，当然这两个人并没有任何关系，只是今天刚好看完了了徐浩峰刚上映不久的电影《剑士柳白猿》，读完了东野圭吾的《嫌疑人X的献身》，二人分别是两部作品中的男主角而已。
-### 柳白猿
-从前并未有什么武侠情结，亦对徐浩峰没有了解。只是无意中看了《师父》，便深深的喜欢上了其风格独特的电影语言，其镜头里的武林与江湖。电影里人物一招一式，一颦一笑，一词一句，都端着架子，但架子端的住而不会显得轻浮。电影中打戏凌厉酣畅，绝不拖泥带水，来去胶着。乱世之中，不见所谓英雄或者大侠，多的是有私心有无奈的一介武夫，外表慵懒风尘却爱的深沉不怕牺牲的女子。电影中柳白猿武艺高强几乎没有敌手，但心智却单纯的像个孩子，被老江湖们玩的团团转，辗转来去，却好像自己也说不清自己做每件事的动机，最后，姐姐的仇人他不射杀了，爱的女人他也不留了，隐退江湖，做一做弓箭聊以度日。片中柳白猿的师父死前说的一句话&lt;/p&gt;
+        <title>Performance</title>
+        <description>&lt;h3 id=&quot;why-quality-factor-and-piezoelectric-coupling-coefficient-important&quot;&gt;Why quality factor and piezoelectric coupling coefficient important?&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;我教会了你射出去的箭，可是这回来的箭还没来得及教给你&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;For applications in wireless communication such as radio frequency filter. High quality factor means more idealized shape of filter transmission curve and lower power consumption. The piezoelectric coupling coefficient directly influenced the bandwidth of the filter. Small or large coupling coefficient is needed for different purpose, however the maxim coupling coefficient a device can achieve is limited by the intrinsic properties of piezoelectric material. As to aluminum nitride, this value is around 0.06.&lt;/p&gt;
 
-&lt;p&gt;明枪易躲，暗箭难防，江湖规矩，世道人心，还得自己摸爬滚打方能领悟。只是这部戏在影院排片之少，上座之低，甚是可惜。&lt;/p&gt;
+&lt;p&gt;For applications as mass sensor, high quality factor means better signal to noise ratio and lower power consumption of the sensor.&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;石神哲哉&lt;/h3&gt;
-&lt;p&gt;小说看的就是快，眼看剩下的页数越来越多然而整个剧情似乎没有什么大的转机和推动的时候，作者一下子把真相甩在你面前，不由shock了一下。不过也是因为我侦探小说看得少，没有绞尽脑汁的推理，倒也是少了不少乐趣。看到结局之后，不由一下子想到白夜行，也是女主背后，有一个黑暗中的守护者，一个愿意为了她无条件牺牲自己的男人。是不是东野圭吾是不是有这样的某种情结，尽管这样一个角色设定总让我感觉到唏嘘和颤栗。有意思的事小说中两个男主角设定一个物理天才，一个数学天才，文中还多次把数学定理比如地图涂色的四色定理提出来说事。据说作者是出身于工科专业，不由得想起罗永浩微博之前说过的一段话&lt;/p&gt;
+&lt;p&gt;For applications as acoustic actuator, high coupling coefficient is needed in order to achieve a higher electrical-mechanical energy conversion efficiency.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;看过火星救援之后，觉得：世界是理科生的，也是文科生的，最终还是那些理科生的～&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;how-is-your-device-performance-compared-to-the-device-fabricated-on-silicon-&quot;&gt;How is your device performance compared to the device fabricated on silicon ?&lt;/h3&gt;
 
-&lt;p&gt;好好学数学吧～&lt;/p&gt;
+&lt;p&gt;Following cited from [1], page 126, which briefly reviewed the quality factor footprint of the silicon based FBAR device fabricated in industry lab.&lt;/p&gt;
+
+&lt;div class=&quot;table-wrapper&quot;&gt;
+
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Year&lt;/th&gt;
+        &lt;th&gt;1993&lt;/th&gt;
+        &lt;th&gt;1995&lt;/th&gt;
+        &lt;th&gt;2000&lt;/th&gt;
+        &lt;th&gt;2002&lt;/th&gt;
+        &lt;th&gt;2006&lt;/th&gt;
+        &lt;th&gt;2007&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Q factor&lt;/td&gt;
+        &lt;td&gt;small&lt;/td&gt;
+        &lt;td&gt;~500&lt;/td&gt;
+        &lt;td&gt;~1000&lt;/td&gt;
+        &lt;td&gt;~2000&lt;/td&gt;
+        &lt;td&gt;~3000&lt;/td&gt;
+        &lt;td&gt;~3200&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;It can be seen that our device nearly catch up with the performance of silicon FBAR at year 2000. However, this quality factor can be further enhanced by adjusting the cavity size and the alignment of the device with the cavity. By using transfer print method, our device had great potential in achieving the performance which state-of-art FBAR can achieved on silicon, but the performance sometimes may compromise with device stability, especially on flexible substrate, so several trade-offs must be made.&lt;/p&gt;
+
+&lt;h3 id=&quot;chen-et-al-2-reported-fbar-device-directly-fabricated-on-pi-with-quality-factor-as-high-as-970-so-whats-your-advantage-over-them&quot;&gt;Chen et al [2] reported FBAR device directly fabricated on PI with quality factor as high as 970, so what’s your advantage over them?&lt;/h3&gt;
+
+&lt;p&gt;We are using recommended method in Chen’s work [3] while calculating quality factor. A more simplified method was using the 3dB width method:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;Q = f/\Delta f&lt;/script&gt;
+
+&lt;p&gt;where &lt;script type=&quot;math/tex&quot;&gt;\Delta f&lt;/script&gt; is the 3dB width of the resonant peak in &lt;strong&gt;frequency impedance curve&lt;/strong&gt;. However, in Chen’s paper, neither impedance curve nor smith chart were showed. It seems that they are using 3db width of the scatter parameter curve while calculating the quality factor, which may yield a very confusing result. Piezoelectric coupling coefficient, as another important performance factor for FBAR, was not mentioned in their work too.&lt;/p&gt;
+
+&lt;p&gt;Well compatibility with variety of substrate and fabrication process is another advantage of transfer print technique over direct-fabricate method.&lt;/p&gt;
+
+&lt;p&gt;[1] Hashimoto, Ken-ya. &lt;em&gt;RF bulk acoustic wave filters for communications.&lt;/em&gt; Artech House, 2009.&lt;/p&gt;
+
+&lt;p&gt;[2] Feld, David A., et al. “After 60 years: A new formula for computing quality factor is warranted.” 2008 IEEE Ultrasonics Symposium. IEEE, 2008.&lt;/p&gt;
+
+&lt;p&gt;[3] Chen, Guohao, et al. “Film bulk acoustic resonators integrated on arbitrary substrates using a polymer support layer.” Scientific reports 5 (2015).&lt;/p&gt;
 </description>
-        <pubDate>Fri, 18 Mar 2016 07:40:21 +0800</pubDate>
-        <link>http://www.andyisnotcoding.com/research/2016/03/18/random-thought.html</link>
-        <guid isPermaLink="true">http://www.andyisnotcoding.com/research/2016/03/18/random-thought.html</guid>
+        <pubDate>Fri, 03 Oct 2014 16:00:00 +0100</pubDate>
+        <link>http://locahost:4000/2014/10/03/performance-issues.html</link>
+        <guid isPermaLink="true">http://locahost:4000/2014/10/03/performance-issues.html</guid>
         
-        
-        <category>research</category>
         
       </item>
     
       <item>
-        <title>John and Jane</title>
-        <description>&lt;h2 id=&quot;dear-john-letter&quot;&gt;Dear John letter&lt;/h2&gt;
-&lt;p&gt;昨夜看了这部《分手信》，电影的英文名叫Dear John，一边看的时候小a告诉我说Dear John letter就是分手信的意思。据说这个说法流传自第二次世界大战的美国士兵当中，那个时候男人们被大量送往前线战斗，留下了女友妻子在家中黯自等待，未曾想时光与生活洗刷磨平了浪漫的回忆，等待变得漫长和煎熬，最终战场上的男人往往收到这样一封信件，信件以“Dear John”开头，内容大意是我已爱上他人，分手是我们最好的选择。于是士兵烧掉信件，烂醉一番，痛哭一场，继续浴血奋战。&lt;/p&gt;
+        <title>Flexibility</title>
+        <description>&lt;h3 id=&quot;why-cant-your-device-achieve-a-better-flexibility&quot;&gt;Why can’t your device achieve a better flexibility?&lt;/h3&gt;
 
-&lt;p&gt;看过很多战争电影，记忆中有很多这样的镜头：士兵们在大战前夜互相谈论自己生命中最美的女孩，长官在率队冲锋前亲吻亲人的照片，飞行员在机舱中贴着女友的照片；枪林弹雨，彻夜行军，只会让士兵对远方亲人的思念堆积成山，无法消除。支撑他们战斗下去的，除了浴血奋战同仇敌忾的兄弟情谊，就是为了能早日结束战斗，与所爱之人重逢的渴望吧。&lt;/p&gt;
+&lt;p&gt;The aluminum nitride on the cavity cracks while bending on the 1-cm-diameter-column. Since the fracture strain of aluminum nitride is below 1%, this kind of failure is reasonable.&lt;/p&gt;
 
-&lt;p&gt;子弹可以杀死一个人，而琐碎的生活可以磨灭感情。女人在家中要独自承担生活的压力，面对琐碎的家事，困难无人分担，苦楚无人倾诉。而恰巧这时候身边的一个看的见摸的着的男人，或有意或无意的给予了她莫大的帮助。后来在女人事隔多年再见到旧爱时，几乎都会含泪控诉，“为什么，为什么在我最需要你的时候你不能在我身边”。我脑海中浮现出了中国合伙人中的苏梅独自在湖边看着国外夫妇玩耍的侧影，想到了珍珠港中的女主角，想到了ex刚出国时说：”xx（她的一位闺蜜）就觉得刚出国以后就觉得特别需要有个男朋友在身边“。后来她养了一只暹罗猫。&lt;/p&gt;
+&lt;p&gt;To achieve a better flexibility while using aluminum nitride as the piezoelectric material, some special design strategy must be used.&lt;/p&gt;
 
-&lt;p&gt;Dear John中的女主角最终选择了与Tim结婚，不知道他们的结合多少是因为Tim对她的爱将她打动，亦有多少是出于同情，或者就是平凡生活中的患难与共和顺其自然。可最让人伤感的却是Tim最后见到John时对他说的那句话：“She has never looked at me the way she used to look at you“。&lt;/p&gt;
+&lt;h3 id=&quot;why-do-you-chose-aluminum-nitride-as-the-piezoelectric-material-since-it-is-hard-and-brittle&quot;&gt;Why do you chose Aluminum Nitride as the piezoelectric material since it is hard and brittle?&lt;/h3&gt;
 
-&lt;p&gt;曾经还看过一个视频集锦，里面记录了许多驻扎海外士兵与亲人女友相见的那一刻，士兵把爱人紧紧相拥，把孩子高高举起，眼神与动作中流露出满满的欣喜和激动，这样的情景谁看到都会感动吧，终于，那些等待都有了意义。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rogers.matse.illinois.edu/&quot;&gt;Rogers’ research group&lt;/a&gt; inspired me the most about using traditional inorganic material as the building block of flexible electronics [1].&lt;/p&gt;
 
-&lt;p&gt;其实从故事和表演上来说，Dear John都不算是一个很出彩的电影。只是关于这部电影我不会忘记的是，第一次看它时，我的手指与谁勾在一起。&lt;/p&gt;
+&lt;p&gt;First, Just like silicon to semiconductor, there is a reason for Aluminum Nitride to become the dominant material in the bulk acoustic resonator industry. For example low acoustic energy loss under high frequency, low TCF(Temperature Coefficient of Frequency), stability in oxygen and moisture.&lt;/p&gt;
 
+&lt;p&gt;Second, anything thin can be flexible, and by incorporating
+appropriate design strategy, for example utilization of the neutral plane, use thinner substrate and coat strain isolation layer, the resulted electronic system could achieve great flexibility while the inorganic material in the system only subjected to minor strain thus undamaged.&lt;/p&gt;
+
+&lt;p&gt;Third, I personally think that organic polymer may be the ultimate solution for future flexible electronics. But for certain application, there is still a long long way to go.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-the-quality-factor-q-fluctuate-significantly-while-bending&quot;&gt;Why the quality factor Q fluctuate significantly while bending?&lt;/h3&gt;
+&lt;p&gt;Actually, the bending diameter versus quality factor data I presented in my poster may not reflect the real quality factor of the device very well. That is because it is hard for me to obtain a very stable electronic connection with the device because the probe was sharp and the substrate was soft so that the probe would easily cause local deformation of the electrode and even accidentally damage it. Under a high frequency region, this kind of deformation may induce extra electronic loss, which then downgrade the quality factor calculated from the test signal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/probe_test.png&quot; alt=&quot;device under test&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, the resonate frequency would not be influenced by this kind of electronic connection instability. We are currently working our way to develop some alternative signal retrieve method which could solve the signal instability problem and facilitate the application of this device.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;[1] Sun, Yugang, and John A. Rogers. “Inorganic semiconductors for flexible electronics.” Advanced Materials 19.15 (2007): 1897-1916.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Apr 2015 06:05:00 +0800</pubDate>
-        <link>http://www.andyisnotcoding.com/life/2015/04/20/john-and-jane.html</link>
-        <guid isPermaLink="true">http://www.andyisnotcoding.com/life/2015/04/20/john-and-jane.html</guid>
+        <pubDate>Sun, 07 Sep 2014 15:36:23 +0100</pubDate>
+        <link>http://locahost:4000/2014/09/07/flexibility-issues.html</link>
+        <guid isPermaLink="true">http://locahost:4000/2014/09/07/flexibility-issues.html</guid>
         
-        
-        <category>life</category>
         
       </item>
     
       <item>
-        <title>Shawshank in Lab</title>
-        <description>&lt;h2 id=&quot;hours-matter&quot;&gt;Hours matter?&lt;/h2&gt;
+        <title>Transfer Print</title>
+        <description>&lt;h3 id=&quot;what-is-transfer-print-technique&quot;&gt;What is transfer print technique?&lt;/h3&gt;
 
-&lt;p&gt;这段时间导师开始对他的学生们施加压力，增加了check的频率，学生们私底下叫苦不迭，虽然客观上这样频繁的视察和询问的确是有助于督促学生的科研进度，而且老师也确实是有一颗认真负责任的心，可是为什么好多话到了导师的嘴里就变的生硬呢？比如说他总是不断反复强调他的60hours信条。60hours的典故出自施一公的博客&lt;a href=&quot;http://blog.sciencenet.cn/home.php?mod=space&amp;amp;uid=46212&amp;amp;do=blog&amp;amp;id=484416&quot;&gt;如何做一名优秀的博士生－时间的付出&lt;/a&gt;原文里提及了另一个科学家蒲慕明先生给学生的邮件里面的一段话&lt;/p&gt;
+&lt;p&gt;Following cited from Carlson et al [1]&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;我认为最重要的事情就是在实验室里的工作时间，当今一个成功的年轻科学家平均每周要有60小时左右的时间投入到实验室的研究工作……我建议每个人每天至少有6小时的紧张实验操作和两小时以上的与科研直接有关的阅读等文献和书籍的阅读应该在这些工作时间之外进行&lt;/p&gt;
+  &lt;p&gt;Transfer printing represents a set of techniques for deterministic assembly of micro-and nanomaterials into spatially organized, functional arrangements with two and three-dimensional layouts. Such processes provide versatile routes not only to test structures and vehicles for scientifi c studies but also to high-performance, heterogeneously integrated functional systems, including those in flexible electronics, three-dimensional and/or curvilinear optoelectronics, and bio-integrated sensing and therapeutic devices.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;我相当相信这个60小时会是个成为成功科学家的必要条件，但是让学生掰着指头精确算起自己出现在实验室的时间，再向老师保证工作时间加起来可以超过60个小时，这个做法未免有些东施效颦。以我看来，其实身边绝大多数的同学其实都很有精力有野心，如果能结合不同学生的特点引导学生的方向，激发学生的兴趣，并教导以科研方法和时间管理相关的经验和技巧，学生对时间的付出无须刻意限定，质量和总量均会自然提升。至于大师提出的60小时理论，应该要让学生知道以后自己心里盘算对照，作为学生自己对自己的要求和目标。如果硬是让学生被老师要求要在一定的时间出现在一定地方，怎么都会觉得和肖申克逃出来的地方有点像，谁都不免想要逃出来，想起出现在就像姜文的电影《一步之遥》里面的一句台词。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/transferprint.png&quot; alt=&quot;transfer print illustration&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;那脑袋上的辫子，自己剪的和被人逼着剪的，能一样么？&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In short, transfer print is like pressing stamp on your paper file, but the ink can be any format for example organic inks, inorganic silicon stripes and even complete multilayer device.&lt;/p&gt;
 
-&lt;p&gt;上面这句话还可以理解成，与其被check，不如主动check老师，反客为主，学习他的思路，慢慢的发现他想要check你的问题你总是已经提前向他提过了的时候，便是自己获得救赎之时，想一想，这心理上的酸爽也不可估量～ &lt;/p&gt;
+&lt;p&gt;Transfer print can be used for utilizing materials which can not be growth directly on flexible substrate such as single crystal silicon and gallium nitride in a flexible electronic system.&lt;/p&gt;
 
-&lt;p&gt;好像国外曾经很流行一个叫做“一万小时天才“的理论，大概是说经过一万小时的刻意练习，任何人都能成为某一领域的顶尖高手。这个理论乍一听起来又像是某种不靠谱的成功学或励志鸡汤的标题，并且多半又把必要条件偷换成了充分条件。但它的确强调了坚持的力量。而我们为什么总是不能坚持？是没有锻炼出自律的习惯还是缺乏坚持的动机？身边许多钢琴弹的很好的朋友都有小时候被逼着练琴的经历，他们回想起儿时的经历都会一致的感谢父母的督促甚至是逼迫。不过既然已经不是小孩子了，很多事情更要自己想清楚的是为什么要做，为什么不做，然后要怎么做，究竟做到什么样为止呢？&lt;/p&gt;
+&lt;h3 id=&quot;why-not-fabricating-fbar-directly-on-flexible-substrate&quot;&gt;Why not fabricating FBAR directly on flexible substrate?&lt;/h3&gt;
 
-&lt;p&gt;最近无意中网上浏览的时候看到Github员工holman写的&lt;a href=&quot;http://zachholman.com/posts/how-github-works/&quot;&gt;How GitHub Works&lt;/a&gt;，他写的这个专题包括三篇文章&lt;/p&gt;
+&lt;p&gt;The deposition of high quality single crystal aluminum nitride require high temperature and crystal lattice match with the substrate, which made most of the flexible polymer substrate incompetence.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Hours are Bullshit （弹性工作制，工作效率第一）&lt;/li&gt;
-  &lt;li&gt;Be Asynchronous（异步工作，能不开会绝不开会）&lt;/li&gt;
-  &lt;li&gt;Creativity is Important （喝酒闲谈，头脑风暴，鼓励不同，开展一些与主要工作无关的有趣小项目）&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;PI(Polyimide) can be used as a substrate for directly deposit zinc oxide as piezoelectric material due to its high temperature compatibility up to 300 degree [2]. However its brown color made it inappropriate for certain applications. The compatibility with other process and material used for flexible electronic fabrication may becoming a issue while pursuing a higher degree of integration.&lt;/p&gt;
 
-&lt;p&gt;作者提到每个人（尤其是程序员）都有自己的Zone，强行的规定工作时间只会打破员工的zone，损害员工的工作效率。反而如果你允许更弹性的工作时间，让员工更多的进入自己的Zone的时候，反而会想停都停不下来。当员工可以弹性选择自己的工作时间甚至地点时，会有种为自己工作的感觉，会更有主动性和效率。而通常无能的管理层才会想到强制用小时来作为工作的定量指标，因为工作的表现并不是像时间那么容易量化的。&lt;/p&gt;
+&lt;p&gt;[1] Carlson, Andrew, et al. “Transfer printing techniques for materials assembly and micro/nanodevice fabrication.” Advanced Materials 24.39 (2012): 5284-5318.&lt;/p&gt;
 
-&lt;p&gt;这样的工作状态对我来说听起来还是十分诱人的，希望能有一天能体验一下像这样的互联网公司的工作氛围，不过这样弹性自由的工作制度可能也需要一些先决条件：公司团队比较小，员工平均技术水平比较牛逼；软件，设计，互联网等受硬件条件和办公地点限制较小的行业。最后，也许我只有多去尝试才能知道自己最喜欢在什么样的地方和什么样的人一起做什么样的工作。&lt;/p&gt;
-
-&lt;p&gt;P.S. 现在是凌晨5点钟，本来1点要睡觉，没忍住手痒帮舍友编了一段急用的整理数据的Excel VBA代码，边查书边编，花了4个小时，又大大超出了自己的估计，但愿明日不要误了什么事。&lt;/p&gt;
-
+&lt;p&gt;[2] Chen, Guohao, et al. “Film bulk acoustic resonators integrated on arbitrary substrates using a polymer support layer.” Scientific reports 5 (2015).&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 Feb 2015 13:00:00 +0800</pubDate>
-        <link>http://www.andyisnotcoding.com/research/2015/02/04/hours-freak.html</link>
-        <guid isPermaLink="true">http://www.andyisnotcoding.com/research/2015/02/04/hours-freak.html</guid>
+        <pubDate>Sun, 31 Aug 2014 15:36:23 +0100</pubDate>
+        <link>http://locahost:4000/2014/08/31/transfer-print-issues.html</link>
+        <guid isPermaLink="true">http://locahost:4000/2014/08/31/transfer-print-issues.html</guid>
         
-        
-        <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>惧怕无知</title>
-        <description>&lt;h3 id=&quot;section&quot;&gt;知与不知&lt;/h3&gt;
-&lt;p&gt;记得在很久以前看过一篇文章，文章的作者来到大学报道，分到了新的宿舍，见到了新的同学。有一天当他在上铺休息的时候听到下铺的两个同学相谈甚欢，似乎知识渊博，无所不知。作者对二人所谈一头雾水，于是越听越觉得自己无知，越听越难受，最后竟然哭了出来。&lt;/p&gt;
-
-&lt;p&gt;最近的每次组会我都会有这种感觉。看着别人连贯的蹦出各种我从未听说过的词汇，看着别人问出我没想过的问题，我竟然会有种后背发凉的感觉。为什么会有这种感觉呢？或许是看到师弟们都已经科研的有模有样，害怕被超越，害怕比不过别人。于是我悄悄向旁边的T师兄表达了我的忧虑，T师兄跟我说“这些东西都简单，记就行了”，于是我心里又舒服一点。这种感觉或许能敦促我更加努力一点，但我知道这种感觉显然不是一种正能量，反而只是自己焦虑浮躁心态的反映。其实理性点分析的话我应该这样想才对：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;这个世界上你不知道的东西永远比你知道的东西多，去了解你感兴趣的和对你而言很重要的事情就好。&lt;/li&gt;
-  &lt;li&gt;科研领域很多东西不具有太多可比性，不要看到别人的工作看起来很炫而自己都看不懂就妄自菲薄，重要的是培养关于科学的Common sense，如果能从别人的工作中获得启发就好。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;科研之路，晚期起步，尚未看到明路，只愿自己能学会更加自律，更重要的是能在其中找到兴趣和意义，最后引用一句F君相当潇洒的话：&lt;/p&gt;
-
-&lt;p&gt;“人家发人家的paper，关我毛事”&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;无用之功&lt;/h3&gt;
-
-&lt;p&gt;这两天在与导师的交流中，两件事让我觉得自己特别的抓不住重点，经常做一些无用功&lt;/p&gt;
-
-&lt;p&gt;其一：画版图，琢磨说明书，花了半个上午画漂亮的五边形，环形器件，各种调整细节，想让器件更漂亮一些。此时，导师路过，看到了我的圆，迅速制止了我的行为，“正方形就可以了，这些器件不同形状性能已经证明过了，不用画别的”。我感到那个尴尬啊，心想也算是跟器件打交道这么久了，画版图前怎么这些都没先弄清，实在是太不严谨，缺乏逻辑性了，最后这一上午只算是练了练手吧。&lt;/p&gt;
-
-&lt;p&gt;其二：总结文献，PPT做到一半，当我正尝试用扁平化的设计风格引出 “工业设计师与科研工作者合作有利于科学技术的市场化”这一文献中提到的“非技术讨论”的时候，导师出现在我背后，要求和我直接展开讨论最近的文献阅读。于是PPT制作停了下来，直接打开文献开始讨论。在我屡次准备说到文献中的一些我觉得比较新鲜但是和目前导师想做的器件不太相关的目标时，被老师打断，要求跳过，抓重点来说。&lt;/p&gt;
-
-&lt;p&gt;其实很难有绝对的“无用之功”，比如说未来我画版图可能就要用到圆形器件，比如说这次的PPT设计多少能为以后设计PPT积累一些经验。只是在有时间要求的任务面前，诸如以上的这种事情最后所占用的时间成本会不会大的吓人？并且，其实就说设计PPT的话，如果我腾出专门的时间，专注于PPT设计技能的训练，其时间效率应该会更高些的吧。&lt;/p&gt;
-
-&lt;p&gt;想到自己本科时临考试前还在整本书按顺序详细的浏览学习，也知道自己一直欠缺的是：一，把握游戏规则，适当取舍的能力。二，持续锁定目标的能力。虽然有人说科研极有可能是失之桑榆收之东隅的过程，但是如果哥伦布不一直朝着他认定的“亚洲“航行的话，他能发现新大陆吗？&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 26 Jan 2015 07:35:00 +0800</pubDate>
-        <link>http://www.andyisnotcoding.com/research/2015/01/26/know-nothing.html</link>
-        <guid isPermaLink="true">http://www.andyisnotcoding.com/research/2015/01/26/know-nothing.html</guid>
-        
-        
-        <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>代码之城</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;游戏青春&lt;/h2&gt;
-
-&lt;p&gt;最早接触“编程”这一概念貌似是在小学，在我们四年级的时候学校开了一个机房，好像平均每两周能放我们进去胡闹一个小时，老师讲点简单的电脑操作，然后剩下的时间让大家瞎搞，机房里的电脑里除了扫雷纸牌外，真没有什么可以鼓捣的东西了，于是大家翻来翻去发现有一个很像游戏的东西，满怀期待的点开。一个启动界面之后，黑色的荧屏上，屏幕中央趴着一只小小的绿色乌龟，一动不动，任大家在键盘鼠标上胡敲乱摁一通，它就是巍然不动，无奈，大家还是纷纷加入到围观老师在配置最好的那台电脑上打帝国时代打红色警戒去了。&lt;/p&gt;
-
-&lt;p&gt;后来妈妈告诉我，要用小乌龟能听懂的话告诉小乌龟怎么走，乌龟才能动起来，妈妈还给我找了一本书，照着书上敲了第一句话，小乌龟居然就向前走了，还在屏幕上留下了一根笔直的线。当时的我觉得太神奇了！于是我对着书敲了好久好久，留下满屏幕密密麻麻的线。在学了几手之后，还到机房里去给同学显摆，同学目瞪口呆，大呼神奇。于是也一起玩了起来，小小的我们，手指笨拙的一个个敲击着指令，荧屏里倒映着我们好奇和求知欲的眼神。这时候镜头从荧屏背后一转，我们都已长大，棱角的脸庞上有一点胡茬，戴起了眼睛，眼睛后面的眼球飞速转动，手指在键盘上跳舞，荧屏上闪烁着现代化的编译器界面以及五彩的代码。。。咳咳，刚刚那段纯属意淫，事实上不久后我们就发现，比起养乌龟，还是溜进大学生宿舍和大学生们一起打小霸王，玩暗黑破坏神比较有意思，于是阴差阳错的放弃了成为计算机神童的契机～后来才知道这个小乌龟程序叫LOGO，是一个相当经典的计算机编程启蒙程序。&lt;/p&gt;
-
-&lt;p&gt;现在想起要是能早一点开始编程该多有意思，小时候做什么事情都是三分钟热情，虽然中学的时候甚至还用disuz!搭建过论坛，用dreamweaver绘制过静态页面，但是几乎没有真正写过一行代码。事实上我与计算机的大部分亲密接触还是献给了电脑游戏们。后来本科学习了编程，拿了高分，参加机器人比赛，写了单片机程序。但闲暇之余也不会想到要编什么程序，听过的计算机语言好像也只限于c，c++，visual basic，java。只是觉得编程很有意思很酷，可是我要用它去做什么呢？&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;海妖之歌&lt;/h2&gt;
-
-&lt;p&gt;研究生开始给老师打工，每天要做大量的重复性工作，要用到实验室现有的一些Matlab代码，可是因为代码太为基础，用起来太繁琐，于是在超净间里无所事事等机台的时候，自作聪明的给代码做了一堆优化编了一些Matlab程序，office的VBA脚本，自认为让重复性工作得到了很大的改善，从中还是得到了不少的成就感。不过从没有特别系统的学过编程的理论，代码可谓丑陋，bug层出，好在最后也都能比较稳定的运行起来了。就在这段时间，代码向我预示了一种可以让繁多重复性的工作变的简单惬意甚至酷炫的可能性，而我就像着了迷的想要实现它，甚至不知不觉陷入一种拿着锤子找钉子的状态，比如说在遇到一个问题的时候会首先想要编写一段代码解决，而忘了先去估计一下完成这项任务的人力成本和编写代码成本。&lt;/p&gt;
-
-&lt;p&gt;再后来，因为想要实现一个偶然的想法，不经意闯入了生机勃勃的网络编程的世界，先遇到了Python 和 Django，然后是HTML,CSS,Javascript, 然后那段时间各种各样的名词，SAE，git，mongoDB，Ngnix，node，AJAX，jquery，bootstrap不断的刷新着我的认识，在开源的网络编程世界里，我感觉就像闯进了一个玩具城堡，那里触手可及全是各种各样的乐高积木，让你眼花缭乱心花怒放，在这个城堡里，一个孩子在地上拼了一个小屋，别的孩子发现了都可以加入进来，建成一座迷你城市。在这个城堡里，大家“既不用重复发明轮子，又乐于重新发明轮子“。后来2014这一年，我都在与代码打交道，做了很多学习和尝试，写过Andorid app，搭过小的数据管理系统，学习了解过d3.js的数据可视化，但是就是始终没有做起来一个自己特别满意的项目。不过脑子中逐渐有一堆小想法冒出，好想去把它们都实现。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;归去来兮&lt;/h2&gt;
-&lt;p&gt;我曾在lang-8这个网站上表达过我的困惑，我说编程特别吸引我，我现在MEMS专业本身也很有意思，更重要的是实验条件非常难得，只是你很难自由遨游，你做什么很大程度上要收到导师的影响，并且有些实验非常费时费力不讨好，很多东西全靠经验堆，没有人教。不像学习程序的世界学习资料唾手可得，网上问答社区极为活跃。&lt;/p&gt;
-
-&lt;p&gt;后来，一个印度学生回复我说到，”You can always program anytime, but you may not always be able to do MEMS later”。我觉得话有道理，只是这个逻辑还是少一些条件。如果我就是爱编程，有天赋编程的话我应该越早作出选择越好，但还有可能是我喜欢编程更多是因为它可以比较容易并且可以预见的让我获得成就感。再想来，鉴于我从小到大从来就没有特别专心和痴迷的干过一件事情这个事实上看来，后者的可能性要更大一些。更何况我从来就没有比较 serious 的 do 过 MEMS，这样一想，这位印度小哥的话对我很在理，我的时间并不多，应该开始比较serious的do一do MEMS了，条件难得，只有先认真的做过才知道自己喜不喜欢。至于coding，暂作为兴趣爱好罢。&lt;/p&gt;
-
-&lt;p&gt;嗯，但我还是会时不时来城里逛逛的，牵着小毛驴，拉点新奇货回去～要不然实在是心痒的不行&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 09 Jan 2015 08:10:21 +0800</pubDate>
-        <link>http://www.andyisnotcoding.com/research/2015/01/09/why-coding.html</link>
-        <guid isPermaLink="true">http://www.andyisnotcoding.com/research/2015/01/09/why-coding.html</guid>
-        
-        
-        <category>research</category>
         
       </item>
     
